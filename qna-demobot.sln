@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "qna-demobot", "qna-demobot\qna-demobot.csproj", "{518102BC-3C08-45CB-8619-8D42C9CCE56F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{518102BC-3C08-45CB-8619-8D42C9CCE56F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{518102BC-3C08-45CB-8619-8D42C9CCE56F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{518102BC-3C08-45CB-8619-8D42C9CCE56F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{518102BC-3C08-45CB-8619-8D42C9CCE56F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2DF4DA7D-2607-483F-B286-AA7931E1228A}
+	EndGlobalSection
+EndGlobal
